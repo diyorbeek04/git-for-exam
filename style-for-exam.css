@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    width: 100%;
+    border: 1px solid crimson;
+    scroll-margin: 0px;
+}
+.wrapper header{
+    width: 100%;
+    height: 40px;
+    background-color: #ADC9A6;
+}
